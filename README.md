@@ -189,8 +189,4 @@ Handwritten-Digit-Recognizer-CNN/
 
 ---
 
-## Author
-
-Divya Nimbalkar
-
 Deep Learning | Machine Learning | AI Enthusiast
