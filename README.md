@@ -166,10 +166,15 @@ Results may vary slightly between runs.
 ## Project Structure
 
 Handwritten-Digit-Recognizer-CNN/
+
 │
+
 ├── Digit recognizer.py
+
 ├── digit_recognizer_model.h5
+
 ├── digit_recognizer_results.png
+
 └── README.md
 
 ---
